@@ -1,0 +1,29 @@
+{
+  "name": "doan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhanThanhHau/nodejs.git"
+  },
+  "keywords": [
+    "doan"
+  ],
+  "author": "ThanhHau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhanThanhHau/nodejs/issues"
+  },
+  "homepage": "https://github.com/PhanThanhHau/nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16"
+  }
+}
